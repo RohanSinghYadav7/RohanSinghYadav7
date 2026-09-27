@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+Machine+Learning+%26+Generative+AI;Solving+Data+Structures+%26+Algorithms;Turning+ideas+into+working+software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Learning+Generative+AI+%26+Machine+Learning;Solving+Data+Structures+%26+Algorithms;Turning+ideas+into+working+software" />
 
 </div>
 
